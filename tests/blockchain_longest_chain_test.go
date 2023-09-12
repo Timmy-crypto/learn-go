@@ -23,6 +23,7 @@ func InitNodeFromTupleList(tupleList [][2]uint) (map[uint][]uint, uint) {
 	}
 
 	return Nodes, tupleList[0][0]
+
 }
 
 func GetMaxPath(chains map[uint][]uint, root uint) []uint {

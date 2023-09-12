@@ -23,116 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8aa7fa4-926b-4103-9f56-6a662e47ad19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/atoi_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/blockchain_longest_chain_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/table_operation_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-go.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis_backup.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis_backup.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/back_track_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/back_track_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/bst_kth_smallest_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/bst_kth_smallest_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/bst_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/bst_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/bt_max_path_sum_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/bt_max_path_sum_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/bt_traverse_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/bt_traverse_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/calc_zero_int_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/calc_zero_int_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/climbing_stairs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/climbing_stairs_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/common/queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/common/queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/common/replace" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/common/replace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/common/sorHeap.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/common/sorHeap.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/common/stack.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/common/stack.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/common/treeNode.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/common/treeNode.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/dynamic_planning_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/dynamic_planning_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/find_common_prefix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/find_common_prefix_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/find_longestPalindrome_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/find_longestPalindrome_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/find_median_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/find_median_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/gray_code_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/gray_code_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/kth_max_value_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/kth_max_value_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/link_list_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/link_list_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/lru_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/lru_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/maxContainer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/maxContainer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/merge_sorted_array_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/merge_sorted_array_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/multiply_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/multiply_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/myati_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/myati_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/niuke/building_number_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/niuke/building_number_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/niuke/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/niuke/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/niuke/niuke_str_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/niuke/niuke_str_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/padding_spiral_matrix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/padding_spiral_matrix_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/readme" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/reverse_int_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/reverse_int_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/rotated_array_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/rotated_array_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/sort_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/sort_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/sub_set_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/sub_set_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/three_number_close_target_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/three_number_close_target_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/valid_parentheses_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/valid_parentheses_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/zero_one_package_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/zero_one_package_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aliyun-kms/aliyun_kms_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/aliyun-kms/aliyun_kms_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bit-set/bit_set_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/bit-set/bit_set_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer-common/float_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/computer-common/float_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto/des_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/des_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto/sha256_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/sha256_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crypto/vdf/vdf_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/crypto/vdf/vdf_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/elasticSearch/es_olivere_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/elasticSearch/es_olivere_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/elasticSearch/es_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/elasticSearch/es_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/etcd/etcd_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/etcd/etcd_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-operation/file_operation_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/file-operation/file_operation_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filepath/filepath_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/filepath/filepath_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsnotify/abc.json" beforeDir="false" afterPath="$PROJECT_DIR$/fsnotify/abc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsnotify/fsnotify_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsnotify/fsnotify_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/append_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/append_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/big_int_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/big_int_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/channel_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/channel_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/context_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/context_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/debug_stack_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/debug_stack_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/env_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/env_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/errors_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/fallthrough_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/fallthrough_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/for_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/for_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/heap_sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/heap_sort_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/list_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/list_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/map_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/map_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/negative_number_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/negative_number_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/pointer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/pointer_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/range_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/range_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/reflect_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/reflect_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/select_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/select_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/slice_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/slice_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/sort_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/strconv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/strconv_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-grammar/variable_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-grammar/variable_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-math/go_math_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-math/go_math_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-regular/regular_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-regular/regular_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-rice/devnet.car" beforeDir="false" afterPath="$PROJECT_DIR$/go-rice/devnet.car" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-rice/go_rice_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-rice/go_rice_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/https/https_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/https/https_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipfs-log/ipfs_golog.file" beforeDir="false" afterPath="$PROJECT_DIR$/ipfs-log/ipfs_golog.file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ipfs-log/ipfs_log_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ipfs-log/ipfs_log_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/json_parse_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/json/json_parse_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/providerRestrict.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/providerRestrict.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_go.go" beforeDir="false" afterPath="$PROJECT_DIR$/learn_go.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main-test/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-test/theme/default/post.txt" beforeDir="false" afterPath="$PROJECT_DIR$/main-test/theme/default/post.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics/metrics_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/metrics/metrics_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pprof/pprof_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pprof/pprof_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpc/grpc_tls_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/rpc/grpc_tls_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soft-design/filecoin-fsm/filecoin_fsm_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/soft-design/filecoin-fsm/filecoin_fsm_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/travis_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/travis_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uber-fx/fx_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/uber-fx/fx_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uber-fx/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/uber-fx/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uber-log/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/uber-log/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uber-log/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/uber-log/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uber-log/util_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/uber-log/util_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urfave-cli/app-run/app_run_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/urfave-cli/app-run/app_run_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urfave-cli/flags/flags.go" beforeDir="false" afterPath="$PROJECT_DIR$/urfave-cli/flags/flags.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urfave-cli/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/urfave-cli/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,20 +57,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/timmy/yc/project/go/learn-go&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/timmy/yc/project/go/learn-go",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "go.vgo"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/uber-fx" />
